@@ -17,4 +17,4 @@ All'inizio del 2021, quando ho iniziato a imparare a programmare in Python, l'in
 Con questo (che era il mio primissimo progetto con python) decisi di controllare la situazione della mia regione d'origine. Il mio obiettivo era quello di rendere chiaro, attraverso la potenza offerta da Python e l'analisi dei dati, quanto fosse grave la situazione, confrontando i dati di ciascuna delle 6 province pugliesi. 
 Questo è stato possibile grazie al dataset della Protezione Civile italiana, caricato su GitHub (https://github.com/pcm-dpc).
 
-Finire questo progetto è stato sorprendentemente utile: i grafici hanno chiarito che il contagio a Lecce (dove vivo) non era così grave (rispetto al resto del paese), e in effetti ha aiutato a rassicurare le persone a me vicine, che cominciavano a soffrire un po' d'ansia.
+Finire questo progetto è stato sorprendentemente utile: i grafici hanno chiarito che il contagio a Lecce (dove vivo) non era così grave (rispetto al resto del paese), e questo ha aiutato a rassicurare le persone a me vicine che in quei giorni, cominciavano a soffrire un po' d'ansia.
