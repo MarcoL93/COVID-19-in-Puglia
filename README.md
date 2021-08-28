@@ -1,4 +1,4 @@
-# COVID-19-in-Puglia
+# COVID 19 in Puglia
 A statistical analysis of the COVID-19 infection in the Italian region
 
 Back in the early 2021, when I started learning Python, the Covid-19 infection was hitting hard in Italy, causing people to stay home in order to weaken the contagion.
